@@ -48,7 +48,7 @@ Our objective is to understand whether and how the relationships between these a
 
 ## Contents
 - `findings_and_interpretation.pdf`: Full report with data, models, and interpretation
-- `asset_correlation_code.pdf`: R code used for the full analysis
+- `correlation_and_volatility_analysis_code.R`: R code used for the full analysis
 
 
 ## 🛠 Tools Used
