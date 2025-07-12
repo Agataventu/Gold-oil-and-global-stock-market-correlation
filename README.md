@@ -51,7 +51,7 @@ Our objective is to understand whether and how the relationships between these a
 - `correlation_and_volatility_analysis_code.R`: R code used for the full analysis
 
 
-## 🛠 Tools Used
+## Tools Used
 
 - R and RStudio
 - Packages: 'vars', 'tseries', 'rugarch', 'rmgarch', 'FinTS'
