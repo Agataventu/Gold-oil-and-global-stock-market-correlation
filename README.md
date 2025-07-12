@@ -46,5 +46,21 @@ Our objective is to understand whether and how the relationships between these a
   - Correlation shocks became larger and more short-lived
   - Fat tails and extreme co-movements became more pronounced
 
-## Files
+## Contents
+- `Asset_Correlation_Analysis.pdf`: Full report with data, models, and interpretation
+- `asset_correlation_code.pdf`: R code used for the full analysis
 
+
+## 🛠 Tools Used
+
+- R and RStudio
+- Packages: 'vars', 'tseries', 'rugarch', 'rmgarch', 'FinTS'
+
+## Authors
+
+- Marco Giovanni Barbero  
+- Ettore Davide Brignoli  
+- Agata Venturi  
+
+*Politecnico di Milano*  
+*Project Date: June 15, 2025*
