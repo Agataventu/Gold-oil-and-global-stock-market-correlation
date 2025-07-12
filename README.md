@@ -47,7 +47,7 @@ Our objective is to understand whether and how the relationships between these a
   - Fat tails and extreme co-movements became more pronounced
 
 ## Contents
-- `Asset_Correlation_Analysis.pdf`: Full report with data, models, and interpretation
+- `findings_and_interpretation.pdf`: Full report with data, models, and interpretation
 - `asset_correlation_code.pdf`: R code used for the full analysis
 
 
